@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1418468840 source:e:\peter\code\cpp\static_map\main.cpp
+	<iostream>
+	"staticMap.h"
+
+1418481104 e:\peter\code\cpp\static_map\staticmap.h
+	<map>
+
+1418468972 source:e:\peter\code\cpp\static_map\staticmap.cpp
+	<iostream>
+	"staticMap.h"
+
+1418481762 source:e:\peter\code\cpp\example_namespace\main.cpp
+	<iostream>
+	"staticMap.h"
+
+1418482389 e:\peter\code\cpp\example_namespace\staticmap.h
+	<map>
+
+1418481795 source:e:\peter\code\cpp\example_namespace\staticmap.cpp
+	<iostream>
+	"staticMap.h"
+
