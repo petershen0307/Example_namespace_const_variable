@@ -14,11 +14,7 @@ namespace TestMap
             return *this;
         }
     };
-    // equal static InitialMap const MAP_STATIC123 = ...
-    InitialMap const MAP_STATIC123 = TestMap::InitialMap()
-        << std::pair<int, int>(1 , 1)
-        << std::pair<int, int>(2 , 2)
-        << std::pair<int, int>(3 , 3);
+    extern InitialMap const MAP_STATIC123;
 }
 
 

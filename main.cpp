@@ -4,9 +4,9 @@ using namespace std;
 void func();
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "static_map.cpp ";
     func();
-    cout << endl << TestMap::MAP_STATIC123.at(1);
+    cout << endl << "main.cpp " << TestMap::MAP_STATIC123.at(1);
     cout << TestMap::MAP_STATIC123.at(2);
     cout << TestMap::MAP_STATIC123.at(3);
     cout << endl << std::hex << &TestMap::MAP_STATIC123;
